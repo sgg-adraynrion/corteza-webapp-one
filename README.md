@@ -14,8 +14,7 @@
 
 <br />
 
-**Corteza webapp One** is the **front-end** of the Corteza One.
-Corteza One unifies the entire Corteza ecosystem in one place, allowing you to create a workspace to suit your needs.
+**Corteza webapp One** is the **front-end** of the Corteza One - unified workspace to access and run third-party web and Corteza applications.
 The web application is based on [Vue.JS](https://vuejs.org/) for modern browsers.
 The communication between the front-end and the back-end occurs via the REST API and web sockets.
 
